@@ -28,39 +28,34 @@ urlcolor: blue
 # Employment
 
 Research Assistant $\hfill{2015-Present}\\$
-Lim Lab
-
+*PVAMC Computational Sleep Lab*
 \begin{itemize}
   \item One entry in the list
 \end{itemize}
 
 Undergraduate Research Assistant $\hfill{2013-2015}\\$
-
-
+*UCSB Vision & Image Understanding Lab*
 \begin{itemize}
-  \item Played a critical role in the development, programming, and debugging of computer-based experiments focusing on machine learning and computer vision to later use on undergraduate subjects.
+  \item Played a critical role in the development, execution, and debugging of computer-based experiments focusing on machine learning, computer vision, and human-computer visual interfaces.
 \end{itemize}
 
 # Education
 
-*Oregon Health & Science University*, B.S. Pharmacology, Biopsychology \hfill 2016
-
+*Oregon Health & Science University* \hfill 2016
 \begin{itemize}
-  \item One entry in the list
+  \item Completed BSTA 511 with 
 \end{itemize}
-
-
-*Johns Hopkins University*, R Programming \hfill 2015
-
-\begin{itemize}
-  \item Completed this Johns Hopkins course through Coursera *with distinction*, achieving a grade of 99%.
-\end{itemize}
-
 
 *University of California, Santa Barbara*, B.S. Pharmacology, Biopsychology \hfill 2015
-
 \begin{itemize}
   \item One entry in the list
+\end{itemize}
+
+## Professional Development
+
+*Johns Hopkins University*, R Programming \hfill 2015
+\begin{itemize}
+  \item Completed this Johns Hopkins course through Coursera {\em with distinction}, achieving a grade of 99%.
 \end{itemize}
 
 # Publications
