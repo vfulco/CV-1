@@ -1,7 +1,7 @@
 ---
 output: 
   pdf_document:
-    template: svm-latex-cv.tex
+    template: rao-latex-cv.tex
 geometry: margin=1in
 
 title: "CV"
@@ -11,12 +11,12 @@ jobtitle: "Research Assistant, Computational Sleep Lab"
 address: "VA Portland Medical Center · Portland, OR"
 fontawesome: yes
 email: ryan.a.opel@gmail.com
-# github: svmiller
+github: opelr
 phone: "949 326 3463"
 web: ryanopel.com
 updated: no
 
-keywords: R Markdown, academic CV, template
+keywords: R Markdown, academic CV
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -27,22 +27,49 @@ urlcolor: blue
 
 # Employment
 
-*Arthur Guinness & Son*
+Research Assistant $\hfill{2015-Present}\\$
+Lim Lab
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+\begin{itemize}
+  \item One entry in the list
+\end{itemize}
 
-Researcher (Dublin) \hfill 1899-1935
+Undergraduate Research Assistant $\hfill{2013-2015}\\$
+
+
+\begin{itemize}
+  \item Played a critical role in the development, programming, and debugging of computer-based experiments focusing on machine learning and computer vision to later use on undergraduate subjects.
+\end{itemize}
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Oregon Health & Science University*, B.S. Pharmacology, Biopsychology \hfill 2016
 
+\begin{itemize}
+  \item One entry in the list
+\end{itemize}
+
+
+*Johns Hopkins University*, R Programming \hfill 2015
+
+\begin{itemize}
+  \item Completed this Johns Hopkins course through Coursera *with distinction*, achieving a grade of 99%.
+\end{itemize}
+
+
+*University of California, Santa Barbara*, B.S. Pharmacology, Biopsychology \hfill 2015
+
+\begin{itemize}
+  \item One entry in the list
+\end{itemize}
 
 # Publications
 
-## Books
+## Abstracts
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+## Posters
+
+## Invited Talks
 
 ## Journal Articles
 
@@ -83,5 +110,3 @@ Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report o
 Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
 
 # References
-
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
