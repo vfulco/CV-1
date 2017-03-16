@@ -194,13 +194,14 @@ $if(fontawesome)$\usepackage{fontawesome}$endif$
 % Fancyhdr, as I tend to do with these personal documents.
 \usepackage{fancyhdr,lastpage}
 \pagestyle{fancy}
+\usepackage{datetime}
 \renewcommand{\headrulewidth}{0.0pt}
 \renewcommand{\footrulewidth}{0.0pt}
 \lhead{}
 \chead{}
 \rhead{}
 \lfoot{
-\cfoot{\scriptsize  $author-meta$ - $title$ }}
+\cfoot{\scriptsize  $author-meta$ - $title$ - \yyyymmdddate\today}}
 \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
