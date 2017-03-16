@@ -30,7 +30,8 @@ urlcolor: blue
 Research Assistant $\hfill{2015-Present}\\$
 *PVAMC Computational Sleep Lab*
 \begin{itemize}
-  \item One entry in the list
+  \item Acted as primary data analyst, programmer, and statistician for this multidisciplinary lab
+  \item 
 \end{itemize}
 
 Undergraduate Research Assistant $\hfill{2013-2015}\\$
@@ -41,12 +42,13 @@ Undergraduate Research Assistant $\hfill{2013-2015}\\$
 
 # Education
 
-*Oregon Health & Science University* \hfill 2016
+Oregon Health & Science University \hfill 2016
 \begin{itemize}
-  \item Completed BSTA 511 with 
+  \item Completed BSTA 511 with an A grade while using \textsf{R} in this Stata-based course
 \end{itemize}
 
-*University of California, Santa Barbara*, B.S. Pharmacology, Biopsychology \hfill 2015
+University of California, Santa Barbara $\hfill{2015}\\$
+*B.S. Pharmacology, Biopsychology*
 \begin{itemize}
   \item One entry in the list
 \end{itemize}
@@ -60,48 +62,53 @@ Undergraduate Research Assistant $\hfill{2013-2015}\\$
 
 # Publications
 
-## Abstracts
+## Conference Abstracts (Chronological Order)
 
-## Posters
+**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Investigating the link between head trauma, REM sleep behavior disorder, and neurodegeneration*. 2017. Submitted to American Neurological Association in Baltimore, MD.
 
-## Invited Talks
+**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Disruptive nocturnal behavior and elevated EMG tone during sleep in Veterans with TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
+
+Teutsch PM, **Opel RA**, Chau AQ, Cayton J, Akins DJ, Lim MM. *Sleep and behavioral phenotype of a combined mouse model of TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
+
+**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative sleep EEG in a mouse model and in human subjects with post-traumatic stress disorder*. 2016. Submitted to Society for Neuroscience in San Diego, CA.
+
+Hammock EAD, Champaigne RD, Cocking DL, **Opel RA**, Driessen RC, Lim MM. *Developmental sleep fragmentation impairs social development in male, but not female, prairie voles*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
+
+Akins DJ, **Opel RA**, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Sleep disruption predicts fearful behavior in a mouse model of post-traumatic stress disorder*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
+
+**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative EEG during sleep is associated with PTSD in mice and men*. 2016. OHSU Research Week.
+
+Hammock EAD, Cocking DL, Champaigne RD, **Opel RA**, Driessen RC, Lim MM. *Early post-natal sleep fragmentation prevents normal social development in male, but not female, prairie voles*. 2016. Submitted to 2^nd^-annual Gordon Research Conference meeting on Sleep Regulation and Function in Galveston, TX.
 
 ## Journal Articles
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+Elliott JE, De Luche SE, Churchill MJ, **Opel RA**, Cocking DL, Moore C, Meshul CK, Lim MM. *Decreased glutamatergic input to orexin neurons after mild TBI is restored by dietary BCAA supplementation in mice*. 2017. (In Preparation)
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+Elliott JE, Weymann KB, Barsalou Y, Geiger M, Teutsch P, **Opel RA**, Oken BS, Lim MM. *Sleep disturbances and chronic pain in Veterans with mild traumatic brain injury*. *SLEEP*, 2017. (Under Review)
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+**Opel RA**, Akins DA, Modarres M, Kuzma NN, Cocking DL, Lim MM. *Sleep EEG signatures predict outcomes in post-traumatic stress disorder*. 2017. (In Preparation)
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+Navis, TM, Jones, CE, **Opel RA**, Lim MM. *Effect of Sleep Disturbance on Sensory Gating in the Prairie Vole*. 2016. (In Preparation)
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
+## Invited Talks
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
+**Opel RA**. *Sleep Disruption Is Associated with Fearful Behavior In A Mouse Model Of Post-traumatic Stress*. 2016. SLEEP Meeting, Denver, CO.
 
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
+**Opel RA**. *Developmental Sleep Fragmentation Impairs Social Development In Male, But Not Female, Prairie Voles*. 2016. SLEEP Meeting, Denver, CO.
 
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
+# Competencies
 
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
-
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
-
-## Other Publications
-
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
+*Languages & Scripting:* \hfill R, Python, PowerShell, Excel/VBA, bash, HTML/CSS
 
 # References
+
+\begin{table}[ht]
+\small
+\centering
+\begin{tabular}{lll}
+\textit{\textbf{Miranda Lim}} & \textit{\textbf{Mike Lasarev}} & \textit{\textbf{Nick Kuzma}} \\
+\begin{tabular}[c]{@{}l@{}}Staff Physician,\\ Sleep Disorders Clinic,\\ VA Portland Health Care System\end{tabular} & \begin{tabular}[c]{@{}l@{}}Senior Instructor,\\ Department of Public Health,\\ Oregon Health \& Science University\end{tabular} & \begin{tabular}[c]{@{}l@{}}Adjunct Professor,\\ Department of Physics,\\ Portland State University\end{tabular} \\
+Email: \underline{lmir@ohsu.edu} & Email: \underline{lasarevm@ohsu.edu} & Email: \underline{kuzman@ohsu.edu}
+\end{tabular}
+\end{table}
+
