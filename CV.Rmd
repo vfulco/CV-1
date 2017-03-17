@@ -26,61 +26,46 @@ urlcolor: blue
 ---
 
 # Employment
-
-Research Assistant $\hfill{2015-Present}\\$
-*PVAMC Computational Sleep Lab*
+\hrule
+PVAMC Computational Sleep Lab, *Research Assistant* \hfill 2015--Present
 \begin{itemize}
-  \item Acted as primary data analyst, programmer, and statistician for this multidisciplinary lab
-  \item 
-\end{itemize}
+  \item Acted as primary data analyst, programmer, and statistician for this multidisciplinary lab.
+  \item Used a combination of R and Python to analyze large repositories of EEG, animal behavior, biometric, and clinical data.
+\end{itemize} 
 
-Undergraduate Research Assistant $\hfill{2013-2015}\\$
-*UCSB Vision & Image Understanding Lab*
+UCSB Vision & Image Understanding Lab, *Undergraduate Research Assistant* \hfill 2013--2015
 \begin{itemize}
   \item Played a critical role in the development, execution, and debugging of MATLAB-based experiments focusing on machine learning, computer vision, and human-computer visual interfaces.
 \end{itemize}
 
 # Education
-
-Oregon Health & Science University \hfill 2016
-\begin{itemize}
-  \item Completed BSTA 511 with an A grade while using \textsf{R} in this Stata-based course
-\end{itemize}
-
-University of California, Santa Barbara $\hfill{2015}\\$
+\hrule
+University of California, Santa Barbara \hfill 2011--2015 $\\$
 *B.S. Pharmacology, Biopsychology*
-\begin{itemize}
-  \item One entry in the list
-\end{itemize}
 
 # Professional Development
-
-*Johns Hopkins University*, R Programming \hfill 2015
+\hrule
+Oregon Health & Science University \hfill 2016 $\\$
+*Estimation and Hypothesis Testing for Applied Biostatistics (BSTA 511)*
 \begin{itemize}
-  \item Completed this Johns Hopkins course through Coursera {\em with distinction}, achieving a grade of 99\%.
+  \item Earned an A grade while using R in this Stata-based course.
+\end{itemize}
+
+Johns Hopkins University \hfill 2015 $\\$
+*R Programming*
+\begin{itemize}
+  \item Completed this Coursera course {\em with distinction}, achieving a grade of 99\%.
 \end{itemize}
 
 # Publications
+\hrule
+## **Invited Talks**
 
-## Conference Abstracts (Chronological Order)
+SLEEP Meeting, Denver, CO. $\\$ *Sleep Disruption is Associated with Fearful Behavior in a Mouse Model of Post-Traumatic Stress*. 2016.
 
-**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Investigating the link between head trauma, REM sleep behavior disorder, and neurodegeneration*. 2017. Submitted to American Neurological Association in Baltimore, MD.
+SLEEP Meeting, Denver, CO. $\\$ *Developmental Sleep Fragmentation Impairs Social Development in Male, but not Female, Prairie Voles*. 2016.
 
-**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Disruptive nocturnal behavior and elevated EMG tone during sleep in Veterans with TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
-
-Teutsch PM, **Opel RA**, Chau AQ, Cayton J, Akins DJ, Lim MM. *Sleep and behavioral phenotype of a combined mouse model of TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
-
-**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative sleep EEG in a mouse model and in human subjects with post-traumatic stress disorder*. 2016. Submitted to Society for Neuroscience in San Diego, CA.
-
-Hammock EAD, Champaigne RD, Cocking DL, **Opel RA**, Driessen RC, Lim MM. *Developmental sleep fragmentation impairs social development in male, but not female, prairie voles*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
-
-Akins DJ, **Opel RA**, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Sleep disruption predicts fearful behavior in a mouse model of post-traumatic stress disorder*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
-
-**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative EEG during sleep is associated with PTSD in mice and men*. 2016. OHSU Research Week.
-
-Hammock EAD, Cocking DL, Champaigne RD, **Opel RA**, Driessen RC, Lim MM. *Early post-natal sleep fragmentation prevents normal social development in male, but not female, prairie voles*. 2016. Submitted to 2^nd^-annual Gordon Research Conference meeting on Sleep Regulation and Function in Galveston, TX.
-
-## Journal Articles
+## **Journal Articles**
 
 **Opel RA**, Akins DA, Modarres M, Kuzma NN, Cocking DL, Lim MM. *Sleep EEG signatures predict outcomes in post-traumatic stress disorder*. 2017. (In Preparation)
 
@@ -90,25 +75,40 @@ Elliott JE, De Luche SE, Churchill MJ, **Opel RA**, Cocking DL, Moore C, Meshul 
 
 Navis, TM, Jones, CE, **Opel RA**, Lim MM. *Effect of Sleep Disturbance on Sensory Gating in the Prairie Vole*. 2016. (In Preparation)
 
-## Invited Talks
+## **Conference Abstracts**
 
-**Opel RA**. *Sleep Disruption Is Associated with Fearful Behavior In A Mouse Model Of Post-traumatic Stress*. 2016. SLEEP Meeting, Denver, CO.
+**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Investigating the link between head trauma, REM sleep behavior disorder, and neurodegeneration*. 2017. Submitted to American Neurological Association in Baltimore, MD.
 
-**Opel RA**. *Developmental Sleep Fragmentation Impairs Social Development In Male, But Not Female, Prairie Voles*. 2016. SLEEP Meeting, Denver, CO.
+**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Disruptive nocturnal behavior and elevated EMG tone during sleep in Veterans with TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
+
+Teutsch P, **Opel RA**, Chau AQ, Cayton J, Akins DJ, Lim MM. *Sleep and behavioral phenotype of a combined mouse model of TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
+
+**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative sleep EEG in a mouse model and in human subjects with post-traumatic stress disorder*. 2016. Submitted to Society for Neuroscience in San Diego, CA.
+
+Hammock EAD, Champaigne RD, Cocking DL, **Opel RA**, Driessen RC, Lim MM. *Developmental sleep fragmentation impairs social development in male, but not female, prairie voles*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
+
+Akins DJ, **Opel RA**, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Sleep disruption predicts fearful behavior in a mouse model of post-traumatic stress disorder*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
+
+**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative EEG during sleep is associated with PTSD in mice and men*. 2016. OHSU Research Week.
+
+```{r echo = F}
+## Hammock EAD, Cocking DL, Champaigne RD, **Opel RA**, Driessen RC, Lim MM. *Early post-natal sleep fragmentation prevents normal social development in male, but not female, prairie voles*. 2016. Submitted to 2^nd^-annual Gordon Research Conference meeting on Sleep Regulation and Function in Galveston, TX.
+```
 
 # Competencies
+\hrule
 
-*Languages & Scripting:* \hfill R, Python, PowerShell, Excel/VBA, bash, HTML/CSS
+*Languages & Scripting:* \hfill R, Python, PowerShell, Excel/VBA, \LaTeX, bash, HTML/CSS
 
 # References
-
+\hrule
 \begin{table}[ht]
 \small
 \centering
 \begin{tabular}{lll}
-\textit{\textbf{Miranda Lim}} & \textit{\textbf{Mike Lasarev}} & \textit{\textbf{Nick Kuzma}} \\
+\textit{\textbf{Miranda Lim}} & \textit{\textbf{Mike Lasarev}} & \textit{\textbf{Nick Kuzma}} \vspace{.07cm} \\ \vspace{.07cm}
 \begin{tabular}[c]{@{}l@{}}Staff Physician,\\ Sleep Disorders Clinic,\\ VA Portland Health Care System\end{tabular} & \begin{tabular}[c]{@{}l@{}}Senior Instructor,\\ Department of Public Health,\\ Oregon Health \& Science University\end{tabular} & \begin{tabular}[c]{@{}l@{}}Adjunct Professor,\\ Department of Physics,\\ Portland State University\end{tabular} \\
-Email: \underline{lmir@ohsu.edu} & Email: \underline{lasarevm@ohsu.edu} & Email: \underline{kuzman@ohsu.edu}
+Email: \underline{\smash{miranda.lim@va.gov}} & Email: \underline{lasarevm@ohsu.edu} & Email: \underline{kuzman@ohsu.edu}
 \end{tabular}
 \end{table}
 

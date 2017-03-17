@@ -185,8 +185,8 @@ $endfor$
 % Make parskips rather than indent with lists.
 \usepackage{parskip}
 \usepackage{titlesec}
-\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
-\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\section{0pt}{6pt}{0pt plus 1pt minus 1pt} % 12pt plus 4pt minus 2pt
+\titlespacing\subsection{0pt}{4pt}{2pt plus 1pt minus 1pt}
 
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
 $if(fontawesome)$\usepackage{fontawesome}$endif$
@@ -229,12 +229,11 @@ $endif$
 
 \begin{document}
 
-
-\centerline{\huge \bf $author$}
+\centerline{\huge \bf \underline{\smash{$author$}}}
 
 \vspace{2 mm}
 
-\hrule
+%\hrule
 
 \vspace{2 mm}
 
@@ -244,8 +243,8 @@ $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
 
 \vspace{2 mm}
 
-\hrule
-
+%\hrule
+\vspace{2 mm}
 
 $body$
 
