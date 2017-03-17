@@ -37,7 +37,7 @@ Research Assistant $\hfill{2015-Present}\\$
 Undergraduate Research Assistant $\hfill{2013-2015}\\$
 *UCSB Vision & Image Understanding Lab*
 \begin{itemize}
-  \item Played a critical role in the development, execution, and debugging of computer-based experiments focusing on machine learning, computer vision, and human-computer visual interfaces.
+  \item Played a critical role in the development, execution, and debugging of MATLAB-based experiments focusing on machine learning, computer vision, and human-computer visual interfaces.
 \end{itemize}
 
 # Education
@@ -53,11 +53,11 @@ University of California, Santa Barbara $\hfill{2015}\\$
   \item One entry in the list
 \end{itemize}
 
-## Professional Development
+# Professional Development
 
 *Johns Hopkins University*, R Programming \hfill 2015
 \begin{itemize}
-  \item Completed this Johns Hopkins course through Coursera {\em with distinction}, achieving a grade of 99%.
+  \item Completed this Johns Hopkins course through Coursera {\em with distinction}, achieving a grade of 99\%.
 \end{itemize}
 
 # Publications
@@ -82,11 +82,11 @@ Hammock EAD, Cocking DL, Champaigne RD, **Opel RA**, Driessen RC, Lim MM. *Early
 
 ## Journal Articles
 
-Elliott JE, De Luche SE, Churchill MJ, **Opel RA**, Cocking DL, Moore C, Meshul CK, Lim MM. *Decreased glutamatergic input to orexin neurons after mild TBI is restored by dietary BCAA supplementation in mice*. 2017. (In Preparation)
+**Opel RA**, Akins DA, Modarres M, Kuzma NN, Cocking DL, Lim MM. *Sleep EEG signatures predict outcomes in post-traumatic stress disorder*. 2017. (In Preparation)
 
 Elliott JE, Weymann KB, Barsalou Y, Geiger M, Teutsch P, **Opel RA**, Oken BS, Lim MM. *Sleep disturbances and chronic pain in Veterans with mild traumatic brain injury*. *SLEEP*, 2017. (Under Review)
 
-**Opel RA**, Akins DA, Modarres M, Kuzma NN, Cocking DL, Lim MM. *Sleep EEG signatures predict outcomes in post-traumatic stress disorder*. 2017. (In Preparation)
+Elliott JE, De Luche SE, Churchill MJ, **Opel RA**, Cocking DL, Moore C, Meshul CK, Lim MM. *Decreased glutamatergic input to orexin neurons after mild TBI is restored by dietary BCAA supplementation in mice*. 2017. (In Preparation)
 
 Navis, TM, Jones, CE, **Opel RA**, Lim MM. *Effect of Sleep Disturbance on Sensory Gating in the Prairie Vole*. 2016. (In Preparation)
 
