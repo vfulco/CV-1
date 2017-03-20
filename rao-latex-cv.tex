@@ -185,7 +185,7 @@ $endfor$
 % Make parskips rather than indent with lists.
 \usepackage{parskip}
 \usepackage{titlesec}
-\titlespacing\section{0pt}{6pt}{0pt plus 1pt minus 1pt} % 12pt plus 4pt minus 2pt
+\titlespacing\section{0pt}{6pt}{0pt plus 1pt minus 1pt} % 12pt plus 4pt minus 2pt %6, 4
 \titlespacing\subsection{0pt}{4pt}{2pt plus 1pt minus 1pt}
 
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
@@ -238,7 +238,8 @@ $endif$
 \vspace{2 mm}
 
 $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
-$if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
+$if(address1)$\moveleft.5\hoffset\centerline{$address1$}$endif$
+$if(address2)$\moveleft.5\hoffset\centerline{$address2$}$endif$
 \moveleft.5\hoffset\centerline{ $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hspace{1 mm} $endif$   $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \today$endif$}
 
 \vspace{2 mm}
