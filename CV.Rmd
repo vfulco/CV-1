@@ -2,13 +2,14 @@
 output: 
   pdf_document:
     template: rao-latex-cv.tex
-geometry: margin=1in
+geometry: margin=0.75in
 
 title: "CV"
 author: Ryan A. Opel
 
 jobtitle: "Research Assistant, Computational Sleep Lab"
-address: "VA Portland Medical Center · Portland, OR"
+address1: "VA Portland Health Care System"
+address2: "Oregon Health & Science University" # · Portland, OR
 fontawesome: yes
 email: ryan.a.opel@gmail.com
 github: opelr
@@ -27,78 +28,106 @@ urlcolor: blue
 
 # Employment
 \hrule
-PVAMC Computational Sleep Lab, *Research Assistant* \hfill 2015--Present
+Portland VA Computational Sleep Lab, *Research Assistant* \hfill $2015$--Present $\\$
+*Principal Investigator: Miranda M. Lim, M.D., Ph.D.*
 \begin{itemize}
-  \item Acted as primary data analyst, programmer, and statistician for this multidisciplinary lab.
-  \item Used a combination of R and Python to analyze large repositories of EEG, animal behavior, biometric, and clinical data.
+  \setlength\itemsep{-0.25em}
+  \item Performed primary data analysis & cleaning, programming, and advanced statistics for this multidisciplinary lab.
+  \item Used a combination of R and Python to analyze large repositories of brain electroencephalography (EEG), animal behavior, biometric, and clinical data.
+  \item Fostered expertise in animal handling, EEG signal processing, sleep scoring, rodent surgery, and animal behavior.
 \end{itemize} 
 
-UCSB Vision & Image Understanding Lab, *Undergraduate Research Assistant* \hfill 2013--2015
+UCSB Vision & Image Understanding Lab, *Undergraduate Research Assistant* \hfill $2013$--$2015$ $\\$
+*Principal Investigator: Miguel P. Eckstein, Ph.D.*
 \begin{itemize}
+  \setlength\itemsep{-0.25em}
   \item Played a critical role in the development, execution, and debugging of MATLAB-based experiments focusing on machine learning, computer vision, and human-computer visual interfaces.
 \end{itemize}
-
+ 
 # Education
 \hrule
-University of California, Santa Barbara \hfill 2011--2015 $\\$
-*B.S. Pharmacology, Biopsychology*
+University of California, Santa Barbara \hfill $2011$--$2015$ $\\$
+*B.S. Pharmacology*, *B.S. Biopsychology*
+```{r echo=F}
+#biopsy \hfill Major GPA: 3.47
+#pharm  \hfill Major GPA: 3.08 
+```
 
 # Professional Development
 \hrule
-Oregon Health & Science University \hfill 2016 $\\$
-*Estimation and Hypothesis Testing for Applied Biostatistics (BSTA 511)*
+Oregon Health & Science University \hfill $2016$ $\\$
+*Estimation and Hypothesis Testing for Applied Biostatistics (BSTA 511)* $\\$
+*Instructor: Michael R. Lasarev, M.S.* 
 \begin{itemize}
+  \setlength\itemsep{-0.25em}
   \item Earned an A grade while using R in this Stata-based course.
+  \item Tuition covered by Princial Investigator of current employment.
 \end{itemize}
 
-Johns Hopkins University \hfill 2015 $\\$
-*R Programming*
+Johns Hopkins University \hfill $2015$ $\\$
+*R Programming* $\\$
+*Instructor: Roger D. Peng, Ph.D.* 
 \begin{itemize}
-  \item Completed this Coursera course {\em with distinction}, achieving a grade of 99\%.
+  \item Completed this Coursera course {\em with distinction}, achieving a grade of $99$\%.
 \end{itemize}
+
+# Invited National Talks
+\hrule
+
+Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO. $\\$ 
+*Sleep Disruption is Associated with Fearful Behavior in a Mouse Model of Post-Traumatic Stress*. $2016$.
+
+Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO. $\\$
+*Developmental Sleep Fragmentation Impairs Social Development in Male, but not Female, Prairie Voles*. $2016$.
+
+```{r echo = F}
+# 2016 $\\$
+# \hspace*{.25cm} Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO. $\\$ 
+# \hspace*{.75cm} 1. *Sleep Disruption is Associated with Fearful Behavior in a Mouse Model of Post-Traumatic Stress*. $\\$
+# \hspace*{.75cm} 2. *Developmental Sleep Fragmentation Impairs Social Development in Male, but not Female, Prairie Voles*.
+```
 
 # Publications
 \hrule
-## **Invited Talks**
 
-SLEEP Meeting, Denver, CO. $\\$ *Sleep Disruption is Associated with Fearful Behavior in a Mouse Model of Post-Traumatic Stress*. 2016.
+1. **Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Investigating the link between head trauma and REM sleep behavior disorder*. (In Preparation).
 
-SLEEP Meeting, Denver, CO. $\\$ *Developmental Sleep Fragmentation Impairs Social Development in Male, but not Female, Prairie Voles*. 2016.
+1. Elliott JE, **Opel RA**, Chau AQ, Weymann K, Storzbach D, Callahan M, Heinricher M, Lim MM. *Relationships between sleep and pain in Veterans with TBI and PTSD*. (In Preparation).
 
-## **Journal Articles**
+1. Jones CE, **Opel RA**, Quintana J, Champaigne RD, Cocking DL, Hammock EAD, Lim MM. *Let Sleeping Voles Lie: Early Life Sleep Fragmentation Impairs Social Development and Alters Parvalbumin Expression in the Somatosensory Barrel Cortex in Prairie Voles*. (In Preparation).
 
-**Opel RA**, Akins DA, Modarres M, Kuzma NN, Cocking DL, Lim MM. *Sleep EEG signatures predict outcomes in post-traumatic stress disorder*. 2017. (In Preparation)
 
-Elliott JE, Weymann KB, Barsalou Y, Geiger M, Teutsch P, **Opel RA**, Oken BS, Lim MM. *Sleep disturbances and chronic pain in Veterans with mild traumatic brain injury*. *SLEEP*, 2017. (Under Review)
+# Conference Abstracts
+\hrule $\\$ *(\*Denotes Presenting Author)*
 
-Elliott JE, De Luche SE, Churchill MJ, **Opel RA**, Cocking DL, Moore C, Meshul CK, Lim MM. *Decreased glutamatergic input to orexin neurons after mild TBI is restored by dietary BCAA supplementation in mice*. 2017. (In Preparation)
+1. **Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Investigating the link between head trauma, REM sleep behavior disorder, and neurodegeneration*. $2017$. Abstract submitted to American Neurological Association in San Diego, CA. To be published in a supplement to the Annals of Neurology.
 
-Navis, TM, Jones, CE, **Opel RA**, Lim MM. *Effect of Sleep Disturbance on Sensory Gating in the Prairie Vole*. 2016. (In Preparation)
+1. Elliott JE, Weymann KB, Barsalou Y, **Opel RA**, Geiger MR, Teutsch P, Chau AQ, Oken BS, Heinricher MM, Lim MM. *Trauma exposure potentiates the Relationship Between Sleep and Chronic Pain in Veterans with TBI and PTSD*. $2017$. Abstract submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
 
-## **Conference Abstracts**
+1. Jones CE, Quintana J, **Opel RA**, Cocking DL, Hammock EAD, Lim MM.* Early post-natal sleep fragmentation impairs social development and alters parvalbumin interneuron expression in adult prairie voles*. $2017$. Abstract submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
 
-**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Investigating the link between head trauma, REM sleep behavior disorder, and neurodegeneration*. 2017. Submitted to American Neurological Association in Baltimore, MD.
+1. **Opel RA\***, Weymann KB, Kuzma NN, Lim MM. *Disruptive nocturnal behavior and elevated EMG tone during sleep in Veterans with TBI and PTSD*. $2017$. Abstract submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
 
-**Opel RA**, Weymann KB, Kuzma NN, Lim MM. *Disruptive nocturnal behavior and elevated EMG tone during sleep in Veterans with TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
+1. Teutsch P, **Opel RA**, Chau AQ, Cayton J, Akins DA, Lim MM. *Sleep and behavioral phenotype of a combined mouse model of TBI and PTSD*. $2017$. Abstract submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
 
-Teutsch P, **Opel RA**, Chau AQ, Cayton J, Akins DJ, Lim MM. *Sleep and behavioral phenotype of a combined mouse model of TBI and PTSD*. 2017. Submitted to SLEEP meeting in Boston, MA. To be published in Supplement of SLEEP.
+1. Akins DJ, **Opel RA\***, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Sleep disruption predicts fearful behavior in a mouse model of post-traumatic stress disorder*. $2016$. Abstract submitted to SLEEP meeting in Denver, CO. SLEEP, $39$(Abstr. Supp.), pg A8.
 
-**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative sleep EEG in a mouse model and in human subjects with post-traumatic stress disorder*. 2016. Submitted to Society for Neuroscience in San Diego, CA.
+1. Hammock EAD, Champaigne RD, Cocking DL, **Opel RA\***, Driessen RC, Lim MM. *Developmental sleep fragmentation impairs social development in male, but not female, prairie voles*. $2016$. Abstract submitted to SLEEP meeting in Denver, CO. SLEEP, $39$(Abstr. Supp.), pg A$63$-$4$.
 
-Hammock EAD, Champaigne RD, Cocking DL, **Opel RA**, Driessen RC, Lim MM. *Developmental sleep fragmentation impairs social development in male, but not female, prairie voles*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
+1. Hammock EAD, Jones, CE, Quintana J, Champaigne RD, **Opel RA**, Cocking DL, Chau AQ, Rodriguez Toro J, Lim MM. *Early life sleep fragmentation impairs social behavior and affects parvalbumin expression in adult prairie voles*. $2016$. Abstract submitted to Society for Social Neuroscience meeting in San Diego, CA.
 
-Akins DJ, **Opel RA**, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Sleep disruption predicts fearful behavior in a mouse model of post-traumatic stress disorder*. 2016. Submitted to SLEEP meeting in Denver, CO. To be published in Supplement of SLEEP.
+1. Hammock EAD, Quintana J, Champaigne RD, **Opel RA\***, Cocking DL, Driessen RC, Lim MM. *Effect of developmental sleep fragmentation on social behavior and parvalbumin expression in prairie voles*. $2016$. Abstract submitted to Society for Neuroscience meeting in San Diego, CA.
 
-**Opel RA**, Akins DJ, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Quantitative EEG during sleep is associated with PTSD in mice and men*. 2016. OHSU Research Week.
+1. **Opel RA\***, Modarres M, Akins DJ, Kuzma NN, Gieger MR, Lim MM. *Quantitative sleep EEG in a mouse model and in human subjects with post-traumatic stress disorder*. $2016$. Abstract submitted to Society for Neuroscience meeting in San Diego, CA.
 
-```{r echo = F}
-## Hammock EAD, Cocking DL, Champaigne RD, **Opel RA**, Driessen RC, Lim MM. *Early post-natal sleep fragmentation prevents normal social development in male, but not female, prairie voles*. 2016. Submitted to 2^nd^-annual Gordon Research Conference meeting on Sleep Regulation and Function in Galveston, TX.
-```
+1. Hammock EAD, Cocking DL, Champaigne RD, **Opel RA**, Driessen RC, Lim MM. *Early post-natal sleep fragmentation prevents normal social development in male, but not female, prairie voles*. $2016$. Abstract submitted to 2nd annual Gordon Research Conference meeting on Sleep Regulation and Function in Galveston, TX.
 
 # Competencies
 \hrule
 
 *Languages & Scripting:* \hfill R, Python, PowerShell, Excel/VBA, \LaTeX, bash, HTML/CSS
+
+*Laboratory Skills*: \hfill EEG signal processing, sleep scoring, rodent surgery, animal behavior
 
 # References
 \hrule
@@ -106,9 +135,8 @@ Akins DJ, **Opel RA**, Modarres M, Kuzma NN, Gieger MR, Lim MM. *Sleep disruptio
 \small
 \centering
 \begin{tabular}{lll}
-\textit{\textbf{Miranda Lim}} & \textit{\textbf{Mike Lasarev}} & \textit{\textbf{Nick Kuzma}} \vspace{.07cm} \\ \vspace{.07cm}
-\begin{tabular}[c]{@{}l@{}}Staff Physician,\\ Sleep Disorders Clinic,\\ VA Portland Health Care System\end{tabular} & \begin{tabular}[c]{@{}l@{}}Senior Instructor,\\ Department of Public Health,\\ Oregon Health \& Science University\end{tabular} & \begin{tabular}[c]{@{}l@{}}Adjunct Professor,\\ Department of Physics,\\ Portland State University\end{tabular} \\
-Email: \underline{\smash{miranda.lim@va.gov}} & Email: \underline{lasarevm@ohsu.edu} & Email: \underline{kuzman@ohsu.edu}
+\textit{\textbf{Miranda M. Lim, M.D., Ph.D.}} & \textit{\textbf{Mike R. Lasarev, M.S.}} & \textit{\textbf{Mo Modarres, Ph.D.}} \vspace{.07cm} \\ \vspace{.07cm}
+\begin{tabular}[c]{@{}l@{}}Assistant Professor,\\ Department of Neurology,\\ Oregon Health \& Science University \\ Staff Physician, Portland VA\end{tabular} & \begin{tabular}[c]{@{}l@{}}Senior Instructor,\\ Department of Public Health,\\ Oregon Health \& Science University \\ Oregon Institute of Occ. Health Sciences\end{tabular} & \begin{tabular}[c]{@{}l@{}}Research Health Scientist,\\  Biomedical Engineering \\ Brain Rehab. Research Center,\\ North FL/South GA VA\end{tabular} \\
+Email: \underline{lmir@ohsu.edu} & Email: \underline{lasarevm@ohsu.edu} & Email: \underline{\smash{mo.modarres@va.gov}}
 \end{tabular}
 \end{table}
-
