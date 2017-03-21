@@ -32,9 +32,9 @@ Portland VA Computational Sleep Lab, *Research Assistant* \hfill $2015$--Present
 *Principal Investigator: Miranda M. Lim, M.D., Ph.D.*
 \begin{itemize}
   \setlength\itemsep{-0.25em}
-  \item Performed primary data analysis & cleaning, programming, and advanced statistics for this multidisciplinary lab.
+  \item Performed primary data analysis \& cleaning, programming, and advanced statistics for this multidisciplinary lab.
   \item Used a combination of R and Python to analyze large repositories of brain electroencephalography (EEG), animal behavior, biometric, and clinical data.
-  \item Fostered expertise in animal handling, EEG signal processing, sleep scoring, rodent surgery, and animal behavior.
+  \item Gained proficiency in animal handling, EEG signal processing, sleep scoring, rodent surgery, and animal behavior.
 \end{itemize} 
 
 UCSB Vision & Image Understanding Lab, *Undergraduate Research Assistant* \hfill $2013$--$2015$ $\\$
@@ -71,7 +71,7 @@ Johns Hopkins University \hfill $2015$ $\\$
   \item Completed this Coursera course {\em with distinction}, achieving a grade of $99$\%.
 \end{itemize}
 
-# Invited National Talks
+# Invited Presentations
 \hrule
 
 Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO. $\\$ 
@@ -79,13 +79,6 @@ Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO.
 
 Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO. $\\$
 *Developmental Sleep Fragmentation Impairs Social Development in Male, but not Female, Prairie Voles*. $2016$.
-
-```{r echo = F}
-# 2016 $\\$
-# \hspace*{.25cm} Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO. $\\$ 
-# \hspace*{.75cm} 1. *Sleep Disruption is Associated with Fearful Behavior in a Mouse Model of Post-Traumatic Stress*. $\\$
-# \hspace*{.75cm} 2. *Developmental Sleep Fragmentation Impairs Social Development in Male, but not Female, Prairie Voles*.
-```
 
 # Publications
 \hrule
@@ -116,7 +109,7 @@ Associated Professional Sleep Societies (APSS) annual SLEEP meeting, Denver, CO.
 
 1. Hammock EAD, Jones, CE, Quintana J, Champaigne RD, **Opel RA**, Cocking DL, Chau AQ, Rodriguez Toro J, Lim MM. *Early life sleep fragmentation impairs social behavior and affects parvalbumin expression in adult prairie voles*. $2016$. Abstract submitted to Society for Social Neuroscience meeting in San Diego, CA.
 
-1. Hammock EAD, Quintana J, Champaigne RD, **Opel RA\***, Cocking DL, Driessen RC, Lim MM. *Effect of developmental sleep fragmentation on social behavior and parvalbumin expression in prairie voles*. $2016$. Abstract submitted to Society for Neuroscience meeting in San Diego, CA.
+1. Hammock EAD, Quintana J, Champaigne RD, **Opel RA\***, Cocking DL, Driessen RC, Lim MM. *Effect of developmental sleep fragmentation on social behavior and parvalbumin expression in prairie voles*. $2016$. Abstract submitted to Society for Neuroscience meeting in San Diego, CA. \newpage
 
 1. **Opel RA\***, Modarres M, Akins DJ, Kuzma NN, Gieger MR, Lim MM. *Quantitative sleep EEG in a mouse model and in human subjects with post-traumatic stress disorder*. $2016$. Abstract submitted to Society for Neuroscience meeting in San Diego, CA.
 
