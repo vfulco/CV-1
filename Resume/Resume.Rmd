@@ -17,58 +17,62 @@ phone: "949 326 3463"
 web: ryanopel.com
 updated: no
 
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
 fontsize: 11pt
-linkcolor: blue
-urlcolor: black
+linkcolor: Blue
+urlcolor: Blue
 ---
 
 # RELEVANT EXPERIENCE
-Research Assistant, *Portland VA Computational Sleep Lab* \hfill $2015$--Present
+\hrule
+\textbf{Research Assistant/Analyst} -- Portland VA Computational Sleep Lab \hfill $2015$--Present
 \begin{itemize}
-  \item[] Serve as primary analyst and statistician for this growing, multidisciplinary lab. Analyze large repositories of clinical, biometric, signal processing, and animal behavior data, creating models and reports with R \& Python to answer diverse research questions. My contributions are essential to the procurement of grant funding, the support of numerous publications, and the continuing development of scientific hypotheses.
+  \setlength\itemsep{-0.25em}
+  \item Serve as primary analyst and statistician for this growing, multidisciplinary lab.
+  \item Analyze large repositories of clinical, biometric, signal processing, and animal behavior data, creating models and reports with R \& Python to answer diverse research questions.
+  \item My contributions are essential to the procurement of grant funding, the support of numerous publications, and the continuing development of scientific hypotheses.
 \end{itemize}
 
-```{r, eval = F, echo=F}
-# SUMMARY
-
-# Budding Data Analyst skilled at synthesizing hypotheses from diverse data sources and effectively communicating results. In-depth statistical knowledge and advanced proficiency with R, Excel, and Python. 
-
-# My contributions aided in the procurement of grant funding, supported numerous publications, and informed the continuing development of advanced scientific hypotheses. 
-```
-
-Undergraduate Research Assistant, *UCSB Vision & Image Understanding Lab* \hfill $2013$--$2015$ 
+\textbf{Undergraduate Research Assistant} -- UCSB Vision & Image Understanding Lab \hfill $2013$--$2015$
 \begin{itemize}
-  \item[] Played a critical role in the development, debugging, and execution of MATLAB-based experiments focusing on computer vision and human-computer visual interfaces.
+  \item Played a critical role in the development, debugging, and execution of MATLAB-based experiments focusing on computer vision and human-computer visual interfaces.
 \end{itemize}
- 
+
 # PROFESSIONAL DEVELOPMENT
-Estimation and Hypothesis Testing for Applied Biostatistics, *Oregon Health & Science University* \hfill $2016$
+\hrule
+\textbf{Est. \& Hypo. Testing for Applied Biostatistics} -- Oregon Health & Science University \hfill $2016$
 \begin{itemize}
-  \item[] Earned an A grade while using R in this Stata-based, graduate level statistics course. Tuition covered by Principal Investigator of current employment.
+  \item Earned an A grade while using R in this Stata-based, graduate level statistics course. Tuition covered by Principal Investigator of current employment.
 \end{itemize}
 
-R Programming, *Johns Hopkins University* \hfill $2015$
+\textbf{R Programming} -- Johns Hopkins University \hfill $2015$ 
 \begin{itemize}
-  \item[] Completed this Coursera course {\em with distinction}, achieving a grade of $99$\%.
+  \item Completed this Coursera course {\em with distinction}, achieving a grade of $99$\%.
 \end{itemize}
 
 # SELECTED PROJECTS
+\hrule
 BoardGameGeek API Class and Analysis
 \begin{itemize}
-  \item[] Designed Python class to interface with \href{https://boardgamegeek.com/wiki/page/BGG_XML_API2}{BGG XML API2}. Utilized assorted statistical and machine learning methods in R to perform analysis of data repository.
+  \item Developed Python class to utilize the \href{https://boardgamegeek.com/wiki/page/BGG_XML_API2}{BGG XML API$2$}.
+  \item Used t-SNE algorithm to perform analysis of data repository in R, deployed via a Shiny Dashboard.
 \end{itemize}
 
-Webscraping AirView's CPAP Adherence Database
+Web-scraping CPAP Adherence Database
 \begin{itemize}
-  \item[] Developed Selenium webcrawler in Python to scrape clinical data otherwise only accessible through mouse-over scripts and PDFs, ultimately saving hundreds of hours of manual data entry. Analyzed data using cohort analysis techniques with R.
+  \item Designed Selenium web-crawler in Python to scrape clinical data, ultimately saving hundreds of hours of manual data entry.
+  \item Analyzed data using cohort analysis techniques with R.
 \end{itemize}
 
 # EDUCATION
+\hrule
 University of California, Santa Barbara \hfill $2011$--$2015$ $\\$
 *B.S. Pharmacology*, *B.S. Biopsychology*
 
 # COMPETENCIES
+\hrule
 
-*Languages & Scripting:* \hfill R, Python, Excel/VBA, PowerShell, \LaTeX, MySQL
-
+*Languages & Scripting:* \hfill R, Python, Excel/VBA, PowerShell, MySQL $\\$
+*Tools:* \hfill Shiny, Pandas, NumPy, \LaTeX $\\$
 *Statistics & Machine Learning:* \hfill Hypothesis testing, regression models, feature selection, path analysis
